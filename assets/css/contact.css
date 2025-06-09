@@ -43,6 +43,8 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* Main */
+
 main {
     display: flex;
     flex-direction: column;
@@ -106,6 +108,8 @@ form .btn:hover {
     transition: all 1s ease;
 }
 
+/* footer */
+
 
 footer {
     text-align: center;
@@ -120,6 +124,8 @@ footer {
 footer a {
     color: #e6945e;
 }
+
+/* Tablet */
 
 @media screen and (min-width: 740px) {
     header nav ul li {
@@ -143,6 +149,8 @@ footer a {
         font-size: 20px;
     }
 }
+
+/* Desktop */
 
 @media screen and (min-width: 1420px) {
      header nav ul li {
