@@ -111,9 +111,13 @@ footer {
   font-style: normal;
 }
 
+/* Footer */
+
 footer a {
     color: #e6945e;
 }
+
+/* Tablet */
 
 @media screen and (min-width: 878px) {
 
@@ -142,6 +146,8 @@ footer a {
         padding: 5px;
     }
 }
+
+/* Desktop */
 
 @media screen and (min-width: 1420px) {
     header nav ul li {
