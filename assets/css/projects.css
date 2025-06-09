@@ -11,10 +11,10 @@ body {
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.589);
     font-family: "Marvel", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  color: #fff;
-  background-image: url(../img/Untitled\ design\ \(1\).png);
+    font-weight: 700;
+    font-style: normal;
+    color: #fff;
+    background-image: url(../img/Untitled\ design\ \(1\).png);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -27,8 +27,8 @@ header nav ul {
     background-color: rgb(109, 22, 0);
     flex-wrap: wrap;
     font-family: "Marvel", sans-serif;
-  font-weight: 700;
-  font-style: normal;
+    font-weight: 700;
+    font-style: normal;
 }
 
 ul li {
