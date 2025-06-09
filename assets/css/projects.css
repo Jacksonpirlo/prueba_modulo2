@@ -43,6 +43,8 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* Main */
+
 main .projects {
     display: flex;
     flex-direction: column;
@@ -94,19 +96,23 @@ main .projects {
     border-radius: 10px;
 }
 
+/* Footer */
+
 footer {
     text-align: center;
     padding: 20px;
     background-color: rgb(109, 22, 0);
     color: #fff;
     font-family: "Marvel", sans-serif;
-  font-weight: 700;
-  font-style: normal;
+    font-weight: 700;
+    font-style: normal;
 }
 
 footer a {
     color: #e6945e;
 }
+
+/* Tablet */
 
 @media screen and (min-width: 740px) {
 
@@ -130,6 +136,8 @@ footer a {
     }
 
 }
+
+/* Desktop */
 
 @media screen and (min-width: 1000px) {
 
