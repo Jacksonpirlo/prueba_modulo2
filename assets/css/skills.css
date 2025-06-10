@@ -28,17 +28,18 @@ header nav ul {
 }
 
 ul li {
-    background-color: #ffffffb9;
-    padding: 10px;
-    margin: 5px;
-    border-radius: 10px;
-    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 nav ul li a {
-    color: #000000;
+    background-color: #ffffffb9;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
     text-decoration: none;
-    width: 100vw;
+    color: #000000;
 }
 
 /* Main */
@@ -107,7 +108,7 @@ footer a {
     header nav ul li {
         text-align: center;
         padding: 18px;
-        width: 13%;
+        width: 20%;
     }
 
     main {
@@ -135,6 +136,17 @@ footer a {
 /* Desktop */
 
 @media screen and (min-width: 1420px) {
+
+    header nav ul li {
+        text-align: center;
+        padding: 18px;
+        width: 15%;
+    }
+
+    nav ul li a {
+        width: 100%;
+    }
+
     .skills_items {
         grid-template-columns: repeat(4, 1fr) !important;
         gap: 2em !important;
