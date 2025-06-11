@@ -1,5 +1,9 @@
 # My portfolio ⭐👨‍🚀📼
 
+
+## Nombre: Jackson Alberto Florez Perez
+## CC: 1036693290
+## Clan: Gosling
 ![StarLord](https://i.makeagif.com/media/4-20-2015/szE3_j.gif)
 
 Here are some instructions to stay in my portfolio 🌄
